@@ -48,7 +48,25 @@ This is what makes your source open.
 ^Viral: should derivative works also be open source?
 ^Fitting in: what do other projects in this language or domain use?
 
+## [fit] Enough, let's make a
+
+### [fit] Pull Request
+
 ## What you'll need
 
 - [GitHub account](https://github.com/join)
 - [Register for Hacktoberfest](https://hacktoberfest.digitalocean.com/)
+
+## How This Was Made
+
+Brian Boucheron (@beardicus) made rocdev-hacktoberfest.png.
+
+```bash
+convert rocdev-hacktober.png -crop 0x0+150+0 rocdev-hacktoberfest-cropped.png
+```
+
+[Deckset](https://www.deckset.com/)
+
+## Attendees
+
+- YOUR NAME HERE
