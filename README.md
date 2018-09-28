@@ -1,20 +1,54 @@
-# Did you know?
+footer: George Adams (@geowa4)
+slidenumbers: true
+slide-dividers: #, ##
 
----
+#
 
-## Display formulas
+[.footer: ]
 
-Easily include mathematical notation written in LaTeX markup. Formula support is available as in-app purchase.
+[.slidenumbers: false]
 
-See the next slide for an example.
+![](rocdev-hacktoberfest-cropped.png)
 
+## Goals
 
----
+- Introduction to Open Source
+- Introduction to GitHub and Pull Requests
+- Get free shirts!
 
-## Schrödinger’s equation
+## Open Source
 
-The simplest way to write the time-independent Schrödinger equation is $$H\psi = E\psi$$, however, with the Hamiltonian operator expanded it becomes:
+- Developed for everyone to see
+- Licensed to include the source code
+- Collaborative
 
-$$
--\frac{\hbar^2}{2m} \frac{d^2 \psi}{dx^2} + V\psi = E\psi
-$$
+## Open Source
+
+- Educational
+- Foundation for further innovation
+- "None of us is as smart as all of us."
+
+## Licensing
+
+This is what makes your source open.
+
+^I am not a lawyer.
+
+## Choosing a License
+
+- Permissive?
+- Do you care about patents?
+- Viral?
+- Fitting in?
+
+[https://choosealicense.com/](https://choosealicense.com/)
+
+^Permissive: let anyone do whatever they want with the code.
+^Patents: must contributors grant use of patents they hold?
+^Viral: should derivative works also be open source?
+^Fitting in: what do other projects in this language or domain use?
+
+## What you'll need
+
+- [GitHub account](https://github.com/join)
+- [Register for Hacktoberfest](https://hacktoberfest.digitalocean.com/)
