@@ -44,8 +44,11 @@ This is what makes your source open.
 [https://choosealicense.com/](https://choosealicense.com/)
 
 ^Permissive: let anyone do whatever they want with the code.
+
 ^Patents: must contributors grant use of patents they hold?
+
 ^Viral: should derivative works also be open source?
+
 ^Fitting in: what do other projects in this language or domain use?
 
 ## [fit] Enough, let's make a
