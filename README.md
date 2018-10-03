@@ -78,7 +78,6 @@ convert rocdev-hacktober.png -crop 0x0+150+0 rocdev-hacktoberfest-cropped.png
 
 ## Attendees
 
-- Eric Fletcher
 - John Liberty
 - Marni
 - Emily Y.
@@ -89,4 +88,5 @@ convert rocdev-hacktober.png -crop 0x0+150+0 rocdev-hacktoberfest-cropped.png
 - Matt Frey
 - Vladimir Martynenko
 - Adam Romney
+- Desi Martinez
 - Danielle Williams
