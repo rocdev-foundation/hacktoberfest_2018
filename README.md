@@ -78,5 +78,6 @@ convert rocdev-hacktober.png -crop 0x0+150+0 rocdev-hacktoberfest-cropped.png
 
 ## Attendees
 
-- Adam Romney
 - Dennis Wheeler
+- Vladimir Martynenko
+- Adam Romney
