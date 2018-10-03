@@ -60,6 +60,12 @@ This is what makes your source open.
 - [GitHub account](https://github.com/join)
 - [Register for Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 
+## Quick ways to find some places to start
+
+- [Hacktoberfest @ Digital Ocean](https://hacktoberfest.digitalocean.com/)
+- [Search of Github for Easy Hacktoberfest Issues](https://github.com/search?q=label%3Ahacktoberfest+label%3Aeasy+state%3Aopen+type%3Aissue&type=Issues)
+- [Up For Grabs](https://up-for-grabs.net/)
+
 ## How This Was Made
 
 Brian Boucheron (@beardicus) made rocdev-hacktoberfest.png.
@@ -73,3 +79,12 @@ convert rocdev-hacktober.png -crop 0x0+150+0 rocdev-hacktoberfest-cropped.png
 ## Attendees
 
 - John Liberty
+- Marni
+- Emily Y.
+- [Ed Griebel](https://github.com/edgriebel)
+- Kael Hopenwasser
+- Dennis Wheeler
+- Aniela Wolkonowski
+- Matt Frey
+- Vladimir Martynenko
+- Adam Romney
