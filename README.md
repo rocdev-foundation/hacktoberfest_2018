@@ -62,7 +62,7 @@ This is what makes your source open.
 
 ## Quick ways to find some places to start
 
-- [Hacktoberfest @ Digital Ocean](https://hacktoberfest.digitalocean.com/)
+- [Hacktoberfest @ DigitalOcean](https://hacktoberfest.digitalocean.com/)
 - [Search of Github for Easy Hacktoberfest Issues](https://github.com/search?q=label%3Ahacktoberfest+label%3Aeasy+state%3Aopen+type%3Aissue&type=Issues)
 - [Up For Grabs](https://up-for-grabs.net/)
 
